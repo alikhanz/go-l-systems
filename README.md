@@ -1,3 +1,6 @@
+# Description
+https://en.wikipedia.org/wiki/L-system
+
 # Requests
 
 ## Sierpinski triangle
