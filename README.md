@@ -8,3 +8,9 @@ http://localhost:3000/?gen=9&alg=ftree
 
 ## Koch curve
 http://localhost:3000/?gen=5&alg=koch
+
+## Dragon curve
+http://localhost:3000/?gen=15&alg=dragon
+
+## Fractal plant
+http://localhost:3000/?gen=7&alg=fplant
